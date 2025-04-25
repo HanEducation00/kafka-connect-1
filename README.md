@@ -16,9 +16,9 @@ Sink Connectors (Kafka’dan dışa veri akar)
 
 ```
 +-----------------------+
-|  Android Uygulama     |
-|  (Telefon verisi:     |
-|  lokasyon, batarya vs)|
+|                       |
+|     Android APP       |
+|                       |
 +----------+------------+
            |
            | MQTT Publish
@@ -53,7 +53,7 @@ Sink Connectors (Kafka’dan dışa veri akar)
            v
 +------------------+
 |  Elasticsearch   |
-|  (Sorgulanabilir)|
+|  (Questionable)  |
 +------------------+
 
 ```
